@@ -1,0 +1,81 @@
+{
+    "resume": "I’m a data scientist with 10+ years of experience. I worked in image processing and software development for Galderma R&D (Nestlé Skin Health), European projects, Airbus, Inria, Institut Curie and Universities. Each of my experiences gave rise to patents or scientific publications.",
+    "experiences": [
+        {
+            "title": "Data Scientist at Inria",
+            "period": "2020 - Today",
+            "items": [
+                {"content": "Project with Airbus: Development of machine learning image processing algorithms for low photon rate image reconstruction"},
+                {"content": "Project with EIT-Digital: Development of machine learning algorithms for connected wearable devices"},
+                {"content": "Project with Institut Curie: Development of database and image analysis worflows using Docker for big data analysis"}
+            ]
+        },
+        {
+            "title": "Data Scientist and project managet at Curie Institut",
+            "period": "2019",
+            "items": [
+                {"content": "Development of an open source bio-image management and analysis solutions: BioImage-IT"},
+                {"content": "Development of image analysis algorithms"},
+                {"content": "Wrapping image analysis tools (c/c++, java, matlab) to biological image analysis softwares (Fiji, Icy, jupyter notebooks...)"},
+                {"content": "Data management"},
+                {"content": "Machine learning, deep learning "},
+                {"content": "Participation to the training group of France-BioImaging"}
+            ]
+        },
+        {
+            "title": "Data scientist at Biogenouest   ",
+            "period": "2014 - 2018",
+            "items": [
+                {"content": "Management of a new image processing facility for microscopy facilities of Rennes, Nantes and Roscoff (France)"},
+                {"content": "Daily image analysis consultations"},
+                {"content": "Image processing training"},
+                {"content": "Data storage & management on servers"},
+                {"content": "Development of Platform-Manager, an open-source facility management web application used by about 20 facilities: http://bgo-bioimagerie.github.io/platformmanager/"},
+                {"content": "3 publications & 2 publications in progress"}
+            ]
+        },
+        {
+            "title": "Startup project with Inria",
+            "period": "2014",
+            "items": [
+                {"content": "Implementation of an image processing software (C++/Qt) github.com/sylvainprigent"},
+                {"content": "Collaboration with a prospect company"}
+            ]
+        },
+        {
+            "title": "Post-Doc at Nice University",
+            "period": "2013",
+            "items": [
+                {"content": "Director: Florence Besse"},
+                {"content": "Develop an image processing framework for detecting and Tracking axons in drosophila brain using bi-photon microscopy imaging"},
+                {"content": "1 scientific publication"}
+            ]
+        }
+    ],
+    "education": [
+        {
+            "title": "PhD Thesis at Inria & Galderman R&D",
+            "period": "2009 - 2012",
+            "items": [
+                {"content": "Director: Xavier Descombres & Josiane Zerubia"},
+                {"content": "Image processing for analyzing skin diseases evolution using multispectral imaging"},
+                {"content": "Spectral analysis, image segmentation, change detection "},
+                {"content": "5 patents, 4 scientific publications, 1 software"}
+            ]
+        },
+        {
+            "title": "Master SIPT at Grenoble INP",
+            "period": "2009",
+            "items": [
+                {"content": "Signal processing, image processing, telecom"}
+            ]
+        },
+        {
+            "title": "Engineering school ENSE3 at Genoble INP",
+            "period": "2006 - 2009",
+            "items": [
+                {"content": "Signal processing, image processing, automatic, electrical engineering"}
+            ]
+        }
+    ]
+}

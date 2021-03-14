@@ -1,0 +1,12 @@
+{
+    "projects": [
+        {
+            "title": "AiryscanJ",
+            "description": "AiryscanJ is a high resolution image reconstruction from array detector. High resolution images can be reconstructed by using detector linear combinations or deconvolution.",
+            "image": "projects/airyscanj.png",
+            "data": "2D and 3D microscopy images",
+            "code": "https://gitlab.inria.fr/serpico/airyscanj_bin",
+            "link": "https://gitlab.inria.fr/serpico/airyscanj_bin"
+        }
+    ]
+}

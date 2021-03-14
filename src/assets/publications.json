@@ -1,0 +1,113 @@
+{
+    "journals": [
+        {
+            "title": "Force transmission between three tissues controls bipolar planar polarity establishment and morphogenesis",
+            "authors": "G Gillard, O Nicolle, T Brugière, S Prigent, M Pinot, G Michaux",
+            "journal": "Current Biology 29 (8), 1360-1368. e4",
+            "link": "",
+            "code": ""
+        },
+        {
+            "title": "A targeted 3D EM and correlative microscopy method using SEM array tomography",
+            "authors": "A Burel, MT Lavault, C Chevalier, H Gnaegi, S Prigent, A Mucciolo, ...",
+            "journal": "Development 145 (12)",
+            "link": "",
+            "code": ""
+        },
+        {
+            "title": "Nature-based tourism elicits a phenotypic shift in the coping abilities of fish",
+            "authors": "B Geffroy, B Sadoul, A Bouchareb, S Prigent, JP Bourdineaud, ...",
+            "journal": "Frontiers in physiology 9, 13",
+            "link": "",
+            "code": ""
+        },
+        {
+            "title": "Neurite analyzer: An original Fiji plugin for quantification of neuritogenesis in two-dimensional images",
+            "authors": "AJ Haas, S Prigent, S Dutertre, Y Le Dréan, Y Le Page",
+            "journal": "Journal of neuroscience methods 271, 86-91",
+            "link": "",
+            "code": ""
+        }
+    ],
+    "conferences": [
+        {
+            "title": "Empirical SURE-guided microscopy super-resolution image reconstruction from confocal ",
+            "authors": "S Prigent, S Dutertre, C Kervrann",
+            "journal": "ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and …",
+            "link": "https://hal.inria.fr/hal-03087023/document",
+            "code": ""
+        },
+        {
+            "title": "Cells detection using segmentation competition",
+            "authors": "E Poulain, S Prigent, E Soubies, X Descombes",
+            "journal": "2015 IEEE 12th International Symposium on Biomedical Imaging (ISBI), 1208-1211",
+            "link": "",
+            "code": ""
+        },
+        {
+            "title": "Head tracking and flagellum tracing for sperm motility analysis",
+            "authors": "HF Yang, X Descombes, S Prigent, G Malandain, X Druart, F Plouraboué",
+            "journal": "2014 IEEE 11th International Symposium on Biomedical Imaging (ISBI), 310-313",
+            "link": "",
+            "code": ""
+        },
+        {
+            "title": "Estimation of an optimal spectral band combination to evaluate skin disease treatment efficacy using multi-spectral images",
+            "authors": "S Prigent, D Zugaj, X Descombes, P Martel, J Zerubia",
+            "journal": "2011 18th IEEE International Conference on Image Processing, 2801-2804",
+            "link": "",
+            "code": ""
+        },
+        {
+            "title": "Multi-spectral image analysis for skin pigmentation classification",
+            "authors": "S Prigent, X Descombes, D Zugaj, P Martel, J Zerubia",
+            "journal": "2010 IEEE International Conference on Image Processing, 3641-3644",
+            "link": "",
+            "code": ""
+        },
+        {
+            "title": "Spectral analysis and unsupervised svm classification for skin hyper-pigmentation classification",
+            "authors": "S Prigent, X Descombes, D Zugaj, J Zerubia",
+            "journal": "2010 2nd Workshop on Hyperspectral Image and Signal Processing: Evolution in …",
+            "link": "",
+            "code": ""
+        }
+    ],
+    "patents": [
+        {
+            "title": "Procédé et système d’estimation d’un indice de sévérité différentiel d’une pathologie exprimant une altération cutanée",
+            "authors": "S Prigent, X Descombes, J Zerubia, D Zugaj, L Petit",
+            "journal": "Émis le 1 janvier 2012 France FR1260390",
+            "link": "",
+            "code": ""
+        },
+        {
+            "title": "Procédé de détermination de l’efficacité d’un traitement et système de traitement d’image associé",
+            "authors": "S Prigent, X Descombes, J Zerubia, D Zugaj, L Petit",
+            "journal": "Émis le 1 janvier 2010 France OA11017",
+            "link": "",
+            "code": ""
+        },
+        {
+            "title": "Procédé de détermination par analyse en composantes indépendantes de l’efficacité d’un traitement et système de traitement d’image associé",
+            "authors": "S Prigent, X Descombes, J Zerubia, D Zugaj, L Petit",
+            "journal": "Émis le 1 janvier 2010 France OA11016",
+            "link": "",
+            "code": ""
+        },
+        {
+            "title": "Dispositif et procédé de compensation de relief d’images hyper-spectrales",
+            "authors": "S Prigent, X Descombes, J Zerubia, D Zugaj, L Petit",
+            "journal": "Émis le 1 janvier 2009FranceOA09438",
+            "link": "",
+            "code": ""
+        },
+        {
+            "title": "Procédé et dispositif d’analyse d’images hyper-spectrales",
+            "authors": "S Prigent, X Descombes, J Zerubia, D Zugaj, L Petit",
+            "journal": "Émis le 1 janvier 2009FranceOA09437 ",
+            "link": "",
+            "code": ""
+        }
+    ]
+}

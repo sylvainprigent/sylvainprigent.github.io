@@ -1,0 +1,45 @@
+{
+    "talks": [
+        {
+            "date": "2020-03",
+            "text": "BioImage-IT, NEUBIAS 2020, Bordeaux, France" 
+        },
+        {
+            "date": "2020-01",
+            "text": "BioImage-IT, QBI 2020, Oxford, UK" 
+        },
+        {
+            "date": "2019-03",
+            "text": "France-BioImaging image analysis open desks, Assises du RTMFM 2019, Rennes, France" 
+        },
+        {
+            "date": "2019-11",
+            "text": "Portail analyse d’images FBI, 9èmes Journées Scientifiques et Techniques du Réseau des Microscopistes de l’INRA, Nantes, France",
+            "link": "https://colloque.inrae.fr/rmui2019/"
+        },
+        {
+            "date": "2018-10",
+            "text": "Optimisation  des  acquisitions  sur  un  microscope  avec  gain  de  résolution  : exemple de la visualisation de la bordure en brosse de l’épithélium de l’intestin chez C. elegans, MiFoBio, Seignosse, France"
+        },
+        {
+            "date": "2017-06",
+            "text": "Analyse d'images, les outils pour l'histomorphometrie dans ImageJ. AFH Histology congress - Nantes - France"
+        },
+        {
+            "date": "2017-11",
+            "text": "LabDataFlow, journée d'animation bioimagerie/bioinformatique de Biogenouest, Rennes, France"
+        },
+        {
+            "date": "2016-10",
+            "text": "MorpholibJ wokshop, MiFoBio, Seignosse, France"
+        },
+        {
+            "date": "2016-03",
+            "text": "Platform-Manager pour la gestion qualité de plateformes, Gen2Bio, Saint-Brieuc, France"
+        },
+        {
+            "date": "2016-03",
+            "text": "Platform-Manager pour l'analyse d'images, Gen2Bio, Saint-Brieuc, France"
+        }
+    ]
+}
