@@ -1,7 +1,7 @@
 <template>
 <div class="row">
     <div class="col-4">
-      <img :src="require('@/assets/'+item.image)" alt="" width="100%" height="100%" class="rectangle"><br />
+      <img :src="require('@/assets/'+item.image)" alt="" width="300px" height="250px" class="rectangle"><br />
     </div>  
     <div class="col-8">
         <div class="sp-pr-title">{{item.title}}</div> 

@@ -1,12 +1,54 @@
 {
     "projects": [
         {
+            "title": "SPITFIR(e)",
+            "description": "Denoising and deconvolution algorithm for 2D-3D-3D+t microscopy images. This deconvolution method is flexible and have been tested on WideField, Confocal, Lattice Light Sheet, MultiFocus, STED microscopy",
+            "image": "projects/spitfire.png",
+            "data": "2D-3D-3D+t microscopy images",
+            "code": "https://github.com/sylvainprigent/simglib/",
+            "link": ""
+        },
+        {
+            "title": "BioImage-IT",
+            "description": "BioImage-IT is an integrated solution for join data management and analysis for scientific experimentations",
+            "image": "projects/bioimageit.png",
+            "data": "2D-3D-3D+t microscopy images",
+            "code": "https://github.com/bioimageit",
+            "link": "https://bioimageit.github.io/#/"
+        },
+        {
+            "title": "SImgLib/SImgLibPy",
+            "description": "SImgLib is a c++ library that implement image processing algorithms for 3D+t analysis of microscopy images. It inlcudes multi-threaded and GPU implementations. SImgLibPy is a python wrapper (with cython) for SImgLib",
+            "image": "projects/simglib.png",
+            "data": "2D-3D-3D+t microscopy images",
+            "code": "https://github.com/sylvainprigent/simglib/",
+            "link": "https://github.com/sylvainprigent/simglibpy/"
+        },
+        {
             "title": "AiryscanJ",
             "description": "AiryscanJ is a high resolution image reconstruction from array detector. High resolution images can be reconstructed by using detector linear combinations or deconvolution.",
             "image": "projects/airyscanj.png",
             "data": "2D and 3D microscopy images",
             "code": "https://gitlab.inria.fr/serpico/airyscanj_bin",
-            "link": "https://gitlab.inria.fr/serpico/airyscanj_bin"
+            "link": "https://ieeexplore.ieee.org/document/9054640"
+        },
+        {
+            "title": "Platform-Manager",
+            "description": "Platform-Manager is a web app (PHP, SQL, Javascript) for scientific facilities management. It include project management, equipements booking and metrology.",
+            "image": "projects/platformmanager.png",
+            "data": "Management data tables",
+            "code": "https://github.com/bgo-bioimagerie/platformmanager",
+            "link": "https://github.com/bgo-bioimagerie/platformmanager"
+        },
+        {
+            "title": "Assessing skin lesion evolution from multispectral image sequences",
+            "description": "Machine learning and statistical algorithms to asses the skin lesion evolution in time series. This software is pattended and have been devoloped with Galderma R&D",
+            "image": "projects/galderma.png",
+            "data": "2D+t multi-spectral images",
+            "code": "",
+            "link": "https://hal.inria.fr/hal-01164502/document"
         }
+
+        
     ]
 }
