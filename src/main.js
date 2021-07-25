@@ -1,14 +1,15 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import BootstrapVue from 'bootstrap-vue/dist/bootstrap-vue.esm';
+import BootstrapVue from 'bootstrap-vue/dist/bootstrap-vue.esm'
 import App from './App.vue'
 
 import '@fortawesome/fontawesome-free/css/all.css'
 import '@fortawesome/fontawesome-free/js/all.js'
-import 'bootstrap/dist/css/bootstrap.css';
-import 'bootstrap-vue/dist/bootstrap-vue.css';
+import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap-vue/dist/bootstrap-vue.css'
 
 import HomePage from './components/HomePage'
+import SkillsPage from './components/SkillsPage'
 import ProjectsPage from './components/ProjectsPage'
 import ConferencesPage from './components/ConferencesPage'
 import JournalsPage from './components/JournalsPage'
@@ -24,6 +25,7 @@ const router = new VueRouter({
   routes : [
     { path: '/', component: HomePage },
     { path: '/home', component: HomePage },
+    { path: '/skills', component: SkillsPage },
     { path: '/projects', component: ProjectsPage },
     { path: '/conferences', component: ConferencesPage },
     { path: '/journals', component: JournalsPage },

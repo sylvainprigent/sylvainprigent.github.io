@@ -1,0 +1,50 @@
+{
+    "skills": [
+        {
+            "title": "Data science",
+            "items": [
+                {"content": "Machine learning"},
+                {"content": "Deep learning"},
+                {"content": "Statistical analysis"},
+                {"content": "Image segmentation"},
+                {"content": "Objects detections and tracking in 3D+t images"}
+            ]
+        },
+        {
+            "title": "Programming",
+            "items": [
+                {"content": "C/C++ (Qt, itk, CMake)"},
+                {"content": "CUDA (c++)"},
+                {"content": "Python (SciPy, Pandas, PyTorch, Keras)"},
+                {"content": "Java"},
+                {"content": "Matlab"}
+            ]
+        },
+        {
+            "title": "Web",
+            "items": [
+                {"content": "PHP"},
+                {"content": "HTML5, CSS, Bootstrap"},
+                {"content": "Javascript, JQuery"},
+                {"content": "Vue.js, Angular"}
+            ]
+        },
+        {
+            "title": "Project Management",
+            "items": [
+                {"content": "Scrum, V cycle"},
+                {"content": "Versioning (Git, GitLab, GitHub)"},
+                {"content": "Continuous integration (GitLab, Travis, GitHub pipeline)"}
+            ]
+        },
+        {
+            "title": "Documentation",
+            "items": [
+                {"content": "Doxygen, DocStrings, JavaDoc"},
+                {"content": "Sphinx"}
+            ]
+        }
+
+
+    ]
+}

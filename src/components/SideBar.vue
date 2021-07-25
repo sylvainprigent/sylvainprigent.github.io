@@ -21,24 +21,6 @@ export default {
   props: {
   },
   methods: {
-    resume: function(){
-        this.$emit("home");
-    },
-    projects: function(){
-        this.$emit("projects");
-    },
-    conferences: function(){
-        this.$emit("conferences");
-    },
-    journals: function(){
-        this.$emit("journals");
-    },
-    talks: function(){
-        this.$emit("talks");
-    },
-    tutorials: function(){
-        this.$emit("tutorials");
-    }
   }
 }
 </script>

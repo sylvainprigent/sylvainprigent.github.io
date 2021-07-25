@@ -7,6 +7,7 @@
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav> 
         <b-nav-item class="nav-item"><router-link class="nav-link bi-nav-item" to="/home">Resume</router-link></b-nav-item>
+        <b-nav-item class="nav-item"><router-link class="nav-link bi-nav-item" to="/skills ">Skills </router-link></b-nav-item>
         <b-nav-item class="nav-item"><router-link class="nav-link bi-nav-item" to="/projects">Projects</router-link></b-nav-item>
         <b-nav-item class="nav-item"><router-link class="nav-link bi-nav-item" to="/conferences">Conferences</router-link></b-nav-item>
         <b-nav-item class="nav-item"><router-link class="nav-link bi-nav-item" to="/journals">Journals</router-link></b-nav-item>
@@ -28,27 +29,6 @@ export default {
   props: {
   },
   methods: {
-    resume: function(){
-        this.$emit("home");
-    },
-    projects: function(){
-        this.$emit("projects");
-    },
-    conferences: function(){
-        this.$emit("conferences");
-    },
-    journals: function(){
-        this.$emit("journals");
-    },
-    patents: function(){
-        this.$emit("patents");
-    },
-    talks: function(){
-        this.$emit("talks");
-    },
-    tutorials: function(){
-        this.$emit("tutorials");
-    }
   }
 }
 </script>

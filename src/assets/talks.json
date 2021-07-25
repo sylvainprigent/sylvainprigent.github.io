@@ -1,6 +1,10 @@
 {
     "talks": [
         {
+            "date": "2021-05",
+            "text": "BioImage-IT, Institut Curie, France" 
+        },
+        {
             "date": "2020-03",
             "text": "BioImage-IT, NEUBIAS 2020, Bordeaux, France" 
         },
