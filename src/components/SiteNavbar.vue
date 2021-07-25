@@ -6,14 +6,13 @@
 
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav> 
-        <b-nav-item class="nav-item"><router-link class="nav-link bi-nav-item" to="/home">Resume</router-link></b-nav-item>
-        <b-nav-item class="nav-item"><router-link class="nav-link bi-nav-item" to="/skills ">Skills </router-link></b-nav-item>
-        <b-nav-item class="nav-item"><router-link class="nav-link bi-nav-item" to="/projects">Projects</router-link></b-nav-item>
-        <b-nav-item class="nav-item"><router-link class="nav-link bi-nav-item" to="/conferences">Conferences</router-link></b-nav-item>
-        <b-nav-item class="nav-item"><router-link class="nav-link bi-nav-item" to="/journals">Journals</router-link></b-nav-item>
-        <b-nav-item class="nav-item"><router-link class="nav-link bi-nav-item" to="/patents">Patents</router-link></b-nav-item>
-        <b-nav-item class="nav-item"><router-link class="nav-link bi-nav-item" to="/talks">Talks</router-link></b-nav-item>
-        <!-- <b-nav-item class="nav-item"><router-link class="nav-link bi-nav-item" to="/tutorials">Tutorials</router-link></b-nav-item> -->
+        <b-nav-item class="nav-item nav-link bi-nav-item" to="/home">Resume </b-nav-item>
+        <b-nav-item class="nav-item nav-link bi-nav-item" to="/skills">SKills</b-nav-item>
+        <b-nav-item class="nav-item nav-link bi-nav-item" to="/projects">Projects </b-nav-item>
+        <b-nav-item class="nav-item nav-link bi-nav-item" to="/conferences">Conferences </b-nav-item>
+        <b-nav-item class="nav-item nav-link bi-nav-item" to="/journals">Journals </b-nav-item>
+        <b-nav-item class="nav-item nav-link bi-nav-item" to="/patents">Patents </b-nav-item>
+        <b-nav-item class="nav-item nav-link bi-nav-item" to="/talks">Talks </b-nav-item>
       </b-navbar-nav>
 
     </b-collapse>

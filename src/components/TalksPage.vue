@@ -34,7 +34,7 @@ import TalkItem from "./TalkItem"
 import talksData from '../assets/talks.json'
 
 export default {
-  name: 'JournalsPage',
+  name: 'TalksPage',
   props: {
   },
   data: function(){

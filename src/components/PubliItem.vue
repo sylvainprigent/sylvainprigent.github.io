@@ -14,7 +14,7 @@
 
 <script>
 export default {
-  name: 'PublicItem',
+  name: 'PubliItem',
   props: {
     item : {type: Object, required: true}
   },

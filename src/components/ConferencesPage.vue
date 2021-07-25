@@ -34,7 +34,7 @@ import PubliItem from "./PubliItem"
 import publiData from '../assets/publications.json'
 
 export default {
-  name: 'JournalsPage',
+  name: 'ConferencesPage',
   props: {
   },
   data: function(){
