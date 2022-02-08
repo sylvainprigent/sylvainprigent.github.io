@@ -1,5 +1,5 @@
 {
-    "resume": "I’m a data scientist with 10+ years of experience. I worked in image processing and software development for Galderma R&D (Nestlé Skin Health), European projects, Airbus, Inria, Institut Curie and Universities. Each of my experiences gave rise to patents or scientific publications.",
+    "resume": "I’m a data scientist with 12+ years of experience. I worked in image processing and software development for Galderma R&D (Nestlé Skin Health), European projects, Airbus, Inria, Institut Curie and Universities. Each of my experiences gave rise to patents or scientific publications.",
     "experiences": [
         {
             "title": "Data Scientist at Inria",
@@ -30,8 +30,8 @@
                 {"content": "Daily image analysis consultations"},
                 {"content": "Image processing training"},
                 {"content": "Data storage & management on servers"},
-                {"content": "Development of Platform-Manager, an open-source facility management web application used by about 20 facilities: http://bgo-bioimagerie.github.io/platformmanager/"},
-                {"content": "3 publications & 2 publications in progress"}
+                {"content": "Development of Platform-Manager, an open-source facility management web application used by about 30 facilities: http://bgo-bioimagerie.github.io/platformmanager/"},
+                {"content": "5 publications"}
             ]
         },
         {
@@ -60,7 +60,7 @@
                 {"content": "Director: Xavier Descombres & Josiane Zerubia"},
                 {"content": "Image processing for analyzing skin diseases evolution using multispectral imaging"},
                 {"content": "Spectral analysis, image segmentation, change detection "},
-                {"content": "5 patents, 4 scientific publications, 1 software"}
+                {"content": "5 patents, 3 scientific publications, 1 software"}
             ]
         },
         {
