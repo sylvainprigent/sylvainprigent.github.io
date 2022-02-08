@@ -6,23 +6,15 @@
             "image": "projects/spitfire.png",
             "data": "2D-3D-3D+t microscopy images",
             "code": "https://github.com/sylvainprigent/simglib/",
-            "link": ""
+            "link": "https://www.biorxiv.org/content/10.1101/2022.01.04.474883v1"
         },
         {
             "title": "BioImage-IT",
             "description": "BioImage-IT is an integrated solution for join data management and analysis for scientific experimentations",
             "image": "projects/bioimageit.png",
             "data": "2D-3D-3D+t microscopy images",
-            "code": "https://github.com/bioimageit",
-            "link": "https://bioimageit.github.io/#/"
-        },
-        {
-            "title": "SImgLib/SImgLibPy",
-            "description": "SImgLib is a c++ library that implement image processing algorithms for 3D+t analysis of microscopy images. It inlcudes multi-threaded and GPU implementations. SImgLibPy is a python wrapper (with cython) for SImgLib",
-            "image": "projects/simglib.png",
-            "data": "2D-3D-3D+t microscopy images",
-            "code": "https://github.com/sylvainprigent/simglib/",
-            "link": "https://github.com/sylvainprigent/simglibpy/"
+            "code": "https://bioimageit.github.io/#/",
+            "link": "https://www.biorxiv.org/content/10.1101/2021.12.09.471919v1"
         },
         {
             "title": "AiryscanJ",
@@ -33,12 +25,36 @@
             "link": "https://ieeexplore.ieee.org/document/9054640"
         },
         {
+            "title": "Napari sdeconv",
+            "description": "Deconvolution plugin for napari inlcuding Wiener, Richardson-Lucy and SPITFIRe",
+            "image": "projects/sdeconv.png",
+            "data": "2D and 3D microscopy images",
+            "code": "https://www.napari-hub.org/plugins/napari-sdeconv",
+            "link": ""
+        },
+        {
+            "title": "Napari stracking",
+            "description": "Particles tracking plugin for napari",
+            "image": "projects/stracking.png",
+            "data": "2D and 3D microscopy images",
+            "code": "https://www.napari-hub.org/plugins/napari-stracking",
+            "link": ""
+        },
+        {
+            "title": "SImgLib/SImgLibPy",
+            "description": "SImgLib is a c++ library that implement image processing algorithms for 3D+t analysis of microscopy images. It inlcudes multi-threaded and GPU implementations. SImgLibPy is a python wrapper (with cython) for SImgLib",
+            "image": "projects/simglib.png",
+            "data": "2D-3D-3D+t microscopy images",
+            "code": "https://github.com/sylvainprigent/simglibpy/",
+            "link": ""
+        },
+        {
             "title": "Platform-Manager",
             "description": "Platform-Manager is a web app (PHP, SQL, Javascript) for scientific facilities management. It include project management, equipements booking and metrology.",
             "image": "projects/platformmanager.png",
             "data": "Management data tables",
-            "code": "https://github.com/bgo-bioimagerie/platformmanager",
-            "link": "https://github.com/bgo-bioimagerie/platformmanager"
+            "code": "http://bgo-bioimagerie.github.io/platformmanager/",
+            "link": ""
         },
         {
             "title": "Assessing skin lesion evolution from multispectral image sequences",

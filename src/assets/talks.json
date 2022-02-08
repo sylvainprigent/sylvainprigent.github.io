@@ -1,6 +1,14 @@
 {
     "talks": [
         {
+            "date": "2022-01",
+            "text": "BioImage-IT, webinaire du RTMFM" 
+        },
+        {
+            "date": "2021-11",
+            "text": "SPITFIR(e): a supermaneuverable image restoration algorithm for 2D, 3D and 3D+Time microscopy images, BioImage Informatics conference, Paris, France"
+        },
+        {
             "date": "2021-05",
             "text": "BioImage-IT, Institut Curie, France" 
         },

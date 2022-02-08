@@ -34,6 +34,7 @@
             "items": [
                 {"content": "Scrum, V cycle"},
                 {"content": "Versioning (Git, GitLab, GitHub)"},
+                {"content": "Packaging (Conda, Docker, Singularity)"},
                 {"content": "Continuous integration (GitLab, Travis, GitHub pipeline)"}
             ]
         },
