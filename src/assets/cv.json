@@ -2,8 +2,18 @@
     "resume": "I’m a data scientist with 12+ years of experience. I worked in image processing and software development for Galderma R&D (Nestlé Skin Health), European projects, Airbus, Inria, Institut Curie and Universities. Each of my experiences gave rise to patents or scientific publications.",
     "experiences": [
         {
+            "title": "Technical product owner at Nanolive",
+            "period": "2022 -",
+            "items": [
+                {"content": "Digital product design with business product owners"},
+                {"content": "Data workflow disign and prototyping"},
+                {"content": "R&D teams’ synchronization"},
+                {"content": "Quality assessment of the data analysis models"}
+            ]
+        },
+        {
             "title": "Data Scientist at Inria",
-            "period": "2020 - Today",
+            "period": "2020 - 2022",
             "items": [
                 {"content": "Project with Airbus: Development of machine learning image processing algorithms for low photon rate image reconstruction"},
                 {"content": "Project with EIT-Digital: Development of machine learning algorithms for connected wearable devices"},
@@ -18,7 +28,7 @@
                 {"content": "Development of image analysis algorithms"},
                 {"content": "Wrapping image analysis tools (c/c++, java, matlab) to biological image analysis softwares (Fiji, Icy, jupyter notebooks...)"},
                 {"content": "Data management"},
-                {"content": "Machine learning, deep learning "},
+                {"content": "Machine learning, deep learning"},
                 {"content": "Participation to the training group of France-BioImaging"}
             ]
         },
