@@ -25,14 +25,14 @@
             "items": [
                 {"content": "PHP"},
                 {"content": "HTML5, CSS, Bootstrap"},
-                {"content": "Javascript, JQuery"},
-                {"content": "Vue.js, Angular"}
+                {"content": "Javascript"},
+                {"content": "Vue.js, React"}
             ]
         },
         {
             "title": "Project Management",
             "items": [
-                {"content": "Scrum, V cycle"},
+                {"content": "Agile, Scrum, YouTrack"},
                 {"content": "Versioning (Git, GitLab, GitHub)"},
                 {"content": "Packaging (Conda, Docker, Singularity)"},
                 {"content": "Continuous integration (GitLab, Travis, GitHub pipeline)"}
