@@ -1,25 +1,32 @@
 {
     "journals": [
         {
-            "title": "SPITFIRe: a supermaneuverable algorithm for restoring 2D-3D fluorescence images and videos, and background subtraction",
-            "authors": "S Prigent, H-N Nguyen, L Leconte, C A Valades-Cruz, B Hajj, J Salamero, C Kervrann",
-            "journal": "submission Nature Communications",
-            "link": "https://www.biorxiv.org/content/10.1101/2022.01.04.474883v1",
-            "code": ""
+            "title": "SPITFIRe: a supermaneuverable algorithm for fast denoising and deconvolution of 3D fluorescence microscopy images and videos",
+            "authors": "S. Prigent, H.-N. Nguyen, L. Leconte, C. A. Valades-Cruz, B. Hajj, J. Salamero and C. Kervrann",
+            "journal": "Nature Scientific Reports, 13(1): 1489, 2023",
+            "link": "https://www.nature.com/articles/s41598-022-26178-y",
+            "code": "https://github.com/sylvainprigent/spitfire"
         },
         {
-            "title": "A comparison of high resolution image reconstruction methods from confocal array detector with a new deconvolution algorithm",
-            "authors": "S Prigent, S Dutertre, A Bidaud-Meynard, G Bertolin, G Michaux, C Kervrann",
-            "journal": "submission Optics Letters",
-            "link": "https://www.biorxiv.org/content/10.1101/2021.08.02.454749v2",
-            "code": ""
+            "title": "Sparse denoising and adaptive estimation enhances the resolution and contrast of fluorescence emission difference microscopy based on array detector",
+            "authors": "S. Prigent, S. Dutertre, A. Bidaud-Meynard, G. Bertolin, G. Michaux, C. Kervrann",
+            "journal": "Optics Letters, 48(4): 847-919, 2023",
+            "link": "https://opg.optica.org/ol/abstract.cfm?uri=ol-48-2-498",
+            "code": "https://github.com/sylvainprigent/sairyscan"
         },
         {
             "title": "BioImageIT: Open-source framework for integration of image data-management with analysis",
             "authors": "S Prigent, C A Valades-Cruz, L Leconte, L Maury, J Salamero, C Kervrann",
-            "journal": "submission Nature Methods",
-            "link": "https://www.biorxiv.org/content/10.1101/2021.12.09.471919v1",
-            "code": ""
+            "journal": "Nature Methods, 19, 1328-1330, 2022",
+            "link": "https://www.nature.com/articles/s41592-022-01642-9",
+            "code": "https://bioimageit.github.io/"
+        },
+        {
+            "title": "STracking: a free and open-source Python library for particle tracking and analysis",
+            "authors": "S Prigent, C A Valades-Cruz, L Leconte, J Salamero, C Kervrann",
+            "journal": "Oxford bioinformatics, Volume 38, Issue 14, July 2022",
+            "link": "https://academic.oup.com/bioinformatics/article/38/14/3671/6594114?login=false",
+            "code": "https://github.com/sylvainprigent/stracking"
         },
         {
             "title": "Loss of light colour preference after chronic embryonic stress in rainbow trout fry: A novel and potential indicator of fish welfare?",
@@ -61,35 +68,35 @@
         {
             "title": "Empirical SURE-guided microscopy super-resolution image reconstruction from confocal ",
             "authors": "S Prigent, S Dutertre, C Kervrann",
-            "journal": "Proc IEEE Int. Conf.  Acoustics, Speech and Signal Processing (ICASSP’20), Barcelona, Spain, may 2020",
+            "journal": "Proc IEEE Int. Conf.  Acoustics, Speech and Signal Processing (ICASSP'20), Barcelona, Spain, may 2020",
             "link": "https://hal.inria.fr/hal-03087023/document",
             "code": ""
         },
         {
             "title": "Cells detection using segmentation competition",
             "authors": "E Poulain, S Prigent, E Soubies, X Descombes",
-            "journal": "Proc. IEEE Int. Symp. Biomedical Imaging (ISBI’15), 1208-1211, 2015",
+            "journal": "Proc. IEEE Int. Symp. Biomedical Imaging (ISBI'15), 1208-1211, 2015",
             "link": "https://ieeexplore.ieee.org/document/7164090",
             "code": ""
         },
         {
             "title": "Head tracking and flagellum tracing for sperm motility analysis",
             "authors": "HF Yang, X Descombes, S Prigent, G Malandain, X Druart, F Plouraboué",
-            "journal": "Proc. IEEE  Int. Symp. Biomedical Imaging (ISBI’14), 310-313, 2014",
+            "journal": "Proc. IEEE  Int. Symp. Biomedical Imaging (ISBI'14), 310-313, 2014",
             "link": "https://ieeexplore.ieee.org/document/6867871",
             "code": ""
         },
         {
             "title": "Estimation of an optimal spectral band combination to evaluate skin disease treatment efficacy using multi-spectral images",
             "authors": "S Prigent, D Zugaj, X Descombes, P Martel, J Zerubia",
-            "journal": "Proc. IEEE Int. Conf. Image Processing (ICIP’11), 2801-2804, 2011",
+            "journal": "Proc. IEEE Int. Conf. Image Processing (ICIP'11), 2801-2804, 2011",
             "link": "https://ieeexplore.ieee.org/document/6116253",
             "code": ""
         },
         {
             "title": "Multi-spectral image analysis for skin pigmentation classification",
             "authors": "S Prigent, X Descombes, D Zugaj, P Martel, J Zerubia",
-            "journal": "Proc. IEEE Int. Conf. Image Processing (ICP’10), 3641-3644, 2010",
+            "journal": "Proc. IEEE Int. Conf. Image Processing (ICP'10), 3641-3644, 2010",
             "link": "https://ieeexplore.ieee.org/document/5652072",
             "code": ""
         },
@@ -103,35 +110,35 @@
     ],
     "patents": [
         {
-            "title": "Procédé et système d’estimation d’un indice de sévérité différentiel d’une pathologie exprimant une altération cutanée",
+            "title": "Procédé et système d'estimation d'un indice de sévérité différentiel d'une pathologie exprimant une altération cutanée",
             "authors": "S Prigent, X Descombes, J Zerubia, D Zugaj, L Petit",
             "journal": "Émis le 1 janvier 2012 France FR1260390",
             "link": "",
             "code": ""
         },
         {
-            "title": "Procédé de détermination de l’efficacité d’un traitement et système de traitement d’image associé",
+            "title": "Procédé de détermination de l'efficacité d'un traitement et système de traitement d'image associé",
             "authors": "S Prigent, X Descombes, J Zerubia, D Zugaj, L Petit",
             "journal": "Émis le 1 janvier 2010 France OA11017",
             "link": "",
             "code": ""
         },
         {
-            "title": "Procédé de détermination par analyse en composantes indépendantes de l’efficacité d’un traitement et système de traitement d’image associé",
+            "title": "Procédé de détermination par analyse en composantes indépendantes de l'efficacité d'un traitement et système de traitement d'image associé",
             "authors": "S Prigent, X Descombes, J Zerubia, D Zugaj, L Petit",
             "journal": "Émis le 1 janvier 2010 France OA11016",
             "link": "",
             "code": ""
         },
         {
-            "title": "Dispositif et procédé de compensation de relief d’images hyper-spectrales",
+            "title": "Dispositif et procédé de compensation de relief d'images hyper-spectrales",
             "authors": "S Prigent, X Descombes, J Zerubia, D Zugaj, L Petit",
             "journal": "Émis le 1 janvier 2009FranceOA09438",
             "link": "",
             "code": ""
         },
         {
-            "title": "Procédé et dispositif d’analyse d’images hyper-spectrales",
+            "title": "Procédé et dispositif d'analyse d'images hyper-spectrales",
             "authors": "S Prigent, X Descombes, J Zerubia, D Zugaj, L Petit",
             "journal": "Émis le 1 janvier 2009FranceOA09437 ",
             "link": "",
