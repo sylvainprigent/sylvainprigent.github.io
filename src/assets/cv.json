@@ -1,76 +1,63 @@
 {
-    "resume": "I’m a data scientist with 12+ years of experience. I worked in image processing and software development for Galderma R&D (Nestlé Skin Health), European projects, Airbus, Inria, Institut Curie and Universities. Each of my experiences gave rise to patents or scientific publications.",
+    "resume": "With over 14 years of experience in the field of image processing and data science, I am passionate about designing and driving software products that meet user needs and leverage cutting-edge data science technologies, artificial intelligence and cloud computing. I worked in image processing and software development for Galderma R&D (Nestlé Skin Health), Nonolive, Airbus, European projects, Inria, Institut Curie and Universities. Each of my experiences gave rise to patents or scientific publications.",
     "experiences": [
         {
             "title": "Technical product owner at Nanolive",
             "period": "2022 -",
             "items": [
-                {"content": "Digital product design with business product owners"},
-                {"content": "Data workflow disign and prototyping"},
-                {"content": "R&D teams’ synchronization"},
-                {"content": "Quality assessment of the data analysis models"}
+                {"content": "Clients needs analysis"},
+                {"content": "Organized product development between product manager, scrum master and data scientists (15 people)"},
+                {"content": "Led roadmaps build, milestones definition and work packages definition"},
+                {"content": "Design of a new architecture to enable software modularity and scalability"},
+                {"content": "Led assessment workflow to produce product specs"},
+                {"content": "Development of deep learning algorithms and analysis pipelines"}
             ]
         },
         {
-            "title": "Data Scientist at Inria",
-            "period": "2020 - 2022",
+            "title": "Data Project Manager at Inria & Institut Curie",
+            "period": "2018 - 2022",
             "items": [
-                {"content": "Project with Airbus: Development of machine learning image processing algorithms for low photon rate image reconstruction"},
-                {"content": "Project with EIT-Digital: Development of machine learning algorithms for connected wearable devices"},
-                {"content": "Project with Institut Curie: Development of database and image analysis worflows using Docker for big data analysis"}
+                {"content": "Led the development of BioImageIT, a software that enable biologists to access cutting-edge data analysis tools"},
+                {"content": "Consulting in data science for external companies: Airbus, EIT-Digital…"},
+                {"content": "Development of deep learning models and user interfaces for bio-imaging applications"},
+                {"content": "5 scientific publications including IEEE and Nature Method"}
             ]
         },
         {
-            "title": "Data Scientist and project managet at Curie Institut",
-            "period": "2019",
-            "items": [
-                {"content": "Development of an open source bio-image management and analysis solutions: BioImage-IT"},
-                {"content": "Development of image analysis algorithms"},
-                {"content": "Wrapping image analysis tools (c/c++, java, matlab) to biological image analysis softwares (Fiji, Icy, jupyter notebooks...)"},
-                {"content": "Data management"},
-                {"content": "Machine learning, deep learning"},
-                {"content": "Participation to the training group of France-BioImaging"}
-            ]
-        },
-        {
-            "title": "Data scientist at Biogenouest   ",
+            "title": "Data Scientist at Biogenouest",
             "period": "2014 - 2018",
             "items": [
-                {"content": "Management of a new image processing facility for microscopy facilities of Rennes, Nantes and Roscoff (France)"},
-                {"content": "Daily image analysis consultations"},
-                {"content": "Image processing training"},
-                {"content": "Data storage & management on servers"},
-                {"content": "Development of Platform-Manager, an open-source facility management web application used by about 30 facilities: http://bgo-bioimagerie.github.io/platformmanager/"},
-                {"content": "5 publications"}
+                {"content": "Management of a microscopy image analysis facility: trainings, data storage maintenance, custom analysis solutions development."},
+                {"content": "Led the development of Platform-Manager a web app that allowed to divide by 5 the needed time to monitor facilities."},
+                {"content": "5 scientific publications including Development and Current Biology."}
             ]
         },
         {
-            "title": "Startup project with Inria",
-            "period": "2014",
+            "title": "Data Scientist at Nice University",
+            "period": "2013 - 2014",
             "items": [
-                {"content": "Implementation of an image processing software (C++/Qt) github.com/sylvainprigent"},
-                {"content": "Collaboration with a prospect company"}
-            ]
-        },
-        {
-            "title": "Post-Doc at Nice University",
-            "period": "2013",
-            "items": [
-                {"content": "Director: Florence Besse"},
-                {"content": "Develop an image processing framework for detecting and Tracking axons in drosophila brain using bi-photon microscopy imaging"},
+                {"content": "Development of tracking algorithms for 3D+t microscopy imaging."},
+                {"content": "Evaluation of market needs for bio-image analysis tools in pharmaceutical market"},
                 {"content": "1 scientific publication"}
+            ]
+        },
+        {
+            "title": "Data Scientist at Inria & Galderman R&D",
+            "period": "2009 - 2012",
+            "items": [
+                {"content": "Development of machine learning algorithms for early clinic diagnosis of skin disorders using multispectral imaging."},
+                {"content": "Development of an end user interface to analyse clinical studies."},
+                {"content": "The developed algorithms allowed to devide by 3 the time of a pre-clinical trial"},
+                {"content": "5 patents, 4 scientific publications, 1 software"}
             ]
         }
     ],
     "education": [
         {
-            "title": "PhD Thesis at Inria & Galderman R&D",
+            "title": "PhD in computer science at Inria",
             "period": "2009 - 2012",
             "items": [
-                {"content": "Director: Xavier Descombres & Josiane Zerubia"},
-                {"content": "Image processing for analyzing skin diseases evolution using multispectral imaging"},
-                {"content": "Spectral analysis, image segmentation, change detection "},
-                {"content": "5 patents, 3 scientific publications, 1 software"}
+                {"content": "Director: Xavier Descombres & Josiane Zerubia"}
             ]
         },
         {

@@ -8,8 +8,8 @@
     <div class="col-md-2">
       <side-bar></side-bar>
     </div>
-    <div class="col-10">
-      <h2>Projects</h2>
+    <div class="container col-10">
+      <h2>Main projects</h2>
       <ProjectItem
         v-for="item in projects"
         v-bind:key="item.title"

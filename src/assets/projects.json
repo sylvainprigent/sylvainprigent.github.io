@@ -1,24 +1,88 @@
 {
     "projects": [
         {
+            "title": "Eve Analytics solution",
+            "image": "projects/eve.png",
+            
+            "context": "In order to automate the management and analysis of large volumes of data (> 1TB) from Nanolive microscopes, we have developed the “Eve Analytics” software solution. The objective of this solution is to adapt customers workflows. Since business and confidentiality constraints are strict in pharma, the solution must be able to be deployed locally with total independence between the different data sets. In addition, the processing time must remain lower than the data acquisition time in order to guarantee an optimal user experience.",
+            "methodology": [
+                {"content":"Agile, Scrum"},
+                {"content": "Microsoft Teams, YouTrack, SalesForce"},
+                {"content": "Python, c++, SQL, TensorFlow"}
+            ],
+            "tasks": [
+                {"content":"In-depth analysis of specific needs and requirements for the analysis of pre-clinical data sets."},
+                {"content":"Interviews with customers and analysis of customer feedback."},
+                {"content":"Collaboration with the product owner team to define the product vision."},
+                {"content":"Definition of technical roadmaps"},
+                {"content":"Production of proofs of concept (database, software architecture, analysis algorithms)"},
+                {"content":"Proposal of technical solutions for performance optimization"},
+                {"content":"Design workshops with R&D teams"},
+                {"content":"Participation in UX/UI design"},
+                {"content":"Implementation of testing and validation strategies"},
+                {"content":"Training for sales teams"},
+                {"content":"Internal and external support"},
+                {"content":"Technology watch"}
+            ],
+            "deliverables": [
+                {"content": "Eve 2.0 software"},    
+                {"content": "Product vision"},   
+                {"content": "User story mapping and roadmap"},    
+                {"content": "Functional and technical specifications"},    
+                {"content": "Proofs of concept"},    
+                {"content": "Validation plan on reference pre-clinical studies datasets"} 
+            ],
+            "data": "2D-3D-3D+t microscopy images",
+            "code": "",
+            "link": "https://www.nanolive.ch/"
+        },
+        {
+            "title": "BioImage-IT",
+            "image": "projects/bioimageit.png",
+            
+            "context": "BioImageIT is a software platform designed to facilitate the user experience for managing and analyzing research data while respecting de facto the FAIR principles. The data are managed through a database compatible with the majority of data formats in the field. Each operation on the data is automatically recorded, guaranteeing the reproducibility of the results. The analysis tools are packaged via Conda and Docker and are automatically installed on demand when the user launches a tool. The graphical interface allows scientists to interactively analyze data and visualize the results BioImageIT integrates a plugin system to use external backends such as OMERO for example. The use of BioImageIT has allowed applied mathematics research teams to transfer tools (python, c++) previously not compatible with the biologists' environment (mainly Java), without the need to re-develop a graphical interface for each tool.",
+            "methodology": [
+                {"content":"Agile, Lean"},
+                {"content": "Python (SciPy, Pandas, Scikit-Learn, PyTorch), C++, CUDA, Conda, Docker, Kubernetes, cross OS (Linux, MacOS, Windows)"}
+            ],
+            "tasks": [
+                {"content":"Collect user needs"},
+                {"content":"Technology watch"},
+                {"content":"Definition of technical roadmaps"},
+                {"content":"Implementation of rapid algorithms (PyTorch, C++, CUDA)"},
+                {"content":"Full stack software development (python, Qt)"},
+                {"content":"Writing of scientific articles"},
+                {"content":"Presentations at conferences and seminars"},
+                {"content":"User training"},
+                {"content":"Internal and external support"}
+            ],
+            "deliverables": [
+                {"content": "BioImage-IT software"},    
+                {"content": "Presentations at conferences"},
+                {"content": "Scientific publications"}  
+            ],
+            "data": "2D-3D-3D+t microscopy images",
+            "code": "https://bioimageit.github.io/#/",
+            "link": "https://www.nature.com/articles/s41592-022-01642-9"
+        },
+        {
             "title": "SPITFIR(e)",
-            "description": "Denoising and deconvolution algorithm for 2D-3D-3D+t microscopy images. This deconvolution method is flexible and have been tested on WideField, Confocal, Lattice Light Sheet, MultiFocus, STED microscopy",
             "image": "projects/spitfire.png",
+
+            "context": "Denoising and deconvolution algorithm for 2D-3D-3D+t microscopy images. This deconvolution method is flexible and have been tested on WideField, Confocal, Lattice Light Sheet, MultiFocus, STED microscopy",
+            "methodology": "",
+            "tasks": "",
+            "deliverables": "",
             "data": "2D-3D-3D+t microscopy images",
             "code": "https://github.com/sylvainprigent/simglib/",
             "link": "https://www.biorxiv.org/content/10.1101/2022.01.04.474883v1"
         },
         {
-            "title": "BioImage-IT",
-            "description": "BioImage-IT is an integrated solution for join data management and analysis for scientific experimentations",
-            "image": "projects/bioimageit.png",
-            "data": "2D-3D-3D+t microscopy images",
-            "code": "https://bioimageit.github.io/#/",
-            "link": "https://www.biorxiv.org/content/10.1101/2021.12.09.471919v1"
-        },
-        {
             "title": "AiryscanJ",
-            "description": "AiryscanJ is a high resolution image reconstruction from array detector. High resolution images can be reconstructed by using detector linear combinations or deconvolution.",
+            "context": "AiryscanJ is a high resolution image reconstruction from array detector. High resolution images can be reconstructed by using detector linear combinations or deconvolution.",
+            "methodology": "",
+            "tasks": "",
+            "deliverables": "",
             "image": "projects/airyscanj.png",
             "data": "2D and 3D microscopy images",
             "code": "https://gitlab.inria.fr/serpico/airyscanj_bin",
@@ -26,7 +90,10 @@
         },
         {
             "title": "Napari sdeconv",
-            "description": "Deconvolution plugin for napari inlcuding Wiener, Richardson-Lucy and SPITFIRe",
+            "context": "Deconvolution plugin for napari inlcuding Wiener, Richardson-Lucy and SPITFIRe",
+            "methodology": "",
+            "tasks": "",
+            "deliverables": "",
             "image": "projects/sdeconv.png",
             "data": "2D and 3D microscopy images",
             "code": "https://www.napari-hub.org/plugins/napari-sdeconv",
@@ -34,32 +101,65 @@
         },
         {
             "title": "Napari stracking",
-            "description": "Particles tracking plugin for napari",
+            "context": "Particles tracking plugin for napari",
+            "methodology": "",
+            "tasks": "",
+            "deliverables": "",
             "image": "projects/stracking.png",
             "data": "2D and 3D microscopy images",
             "code": "https://www.napari-hub.org/plugins/napari-stracking",
             "link": ""
         },
         {
-            "title": "SImgLib/SImgLibPy",
-            "description": "SImgLib is a c++ library that implement image processing algorithms for 3D+t analysis of microscopy images. It inlcudes multi-threaded and GPU implementations. SImgLibPy is a python wrapper (with cython) for SImgLib",
-            "image": "projects/simglib.png",
-            "data": "2D-3D-3D+t microscopy images",
-            "code": "https://github.com/sylvainprigent/simglibpy/",
-            "link": ""
-        },
-        {
             "title": "Platform-Manager",
-            "description": "Platform-Manager is a web app (PHP, SQL, Javascript) for scientific facilities management. It include project management, equipements booking and metrology.",
+            "context": "Platform-Manager is a modular web application that automates common technical facilities management tasks. Features include: resource booking, project tracking, inventory management, quote editing, automated invoicing as well as databases specific to laboratory activities such as antibody management. This tool has made it possible to divide by 5 the time required by teams for the administration of technical platforms and to facilitate ISO9001 quality processes",
             "image": "projects/platformmanager.png",
-            "data": "Management data tables",
+            "methodology": [
+                {"content":"Agile, Scrum"},
+                {"content": "Php, JQuery, MySQL"}
+            ],
+            "tasks": [
+                {"content":"Collect user needs"},
+                {"content":"Definition of technical roadmaps"},
+                {"content":"Full stack software development (Php, JQuery, MySQL)"},
+                {"content":"Deployment, devOps"},
+                {"content":"Packaging with Docker"},
+                {"content":"Write documentation"},
+                {"content":"Trainings and demos"}
+            ],
+            "deliverables": [
+                {"content": "Web app"},    
+                {"content": "Deployment to about 30 facilities"}
+            ],
+            "data": "SQL database",
             "code": "http://bgo-bioimagerie.github.io/platformmanager/",
             "link": ""
         },
         {
-            "title": "Assessing skin lesion evolution from multispectral image sequences",
-            "description": "Machine learning and statistical algorithms to asses the skin lesion evolution in time series. This software is pattended and have been devoloped with Galderma R&D",
+            "title": "Melasma Automatic Detector",
+            "context": "Galderma is a pharmaceutical company specializing in dermatology. The development cycle for new treatments is very long and costly, especially during clinical studies where dermatologists must individually monitor all patients. The objective of the project was to evaluate the use of multi- and hyperspectral imaging to measure the effectiveness of treatments as objectively and quickly as possible. This project resulted in the Melasma Automatic Detector tool allowing automated analysis of clinical studies of skin treatments from multispectral images. Each patient is followed throughout the study and the tool generates a severity score for each visit. A statistical analysis on all patients then allows conclusions to be drawn as to the effectiveness of the treatment. This tool allows the duration of a pre-clinical study to be divided by 3.",
             "image": "projects/galderma.png",
+            "methodology": [
+                {"content":"Accademic research"},
+                {"content": "Matlab, c++, Qt"}
+            ],
+            "tasks": [
+                {"content":"Gathering dermatologists’ needs"},
+                {"content":"Gathering dermatologists’ feedback"},
+                {"content":"Technology watch"},
+                {"content":"Development of machine learning algorithms"},
+                {"content":"Development of statistical analysis algorithms"},
+                {"content":"Development of software for end users"},
+                {"content":"User training"},
+                {"content":"Writing scientific articles"}
+            ],
+            "deliverables": [
+                {"content": "Matlab Analysis Algorithms for Galderma Data Scientists"},    
+                {"content": "GUI Software for Galderma Dermatologists"},
+                {"content": "Technical Reports"},
+                {"content": "3 Scientific Articles"},
+                {"content": "5 Patents"}
+            ],
             "data": "2D+t multi-spectral images",
             "code": "",
             "link": "https://hal.inria.fr/hal-01164502/document"
