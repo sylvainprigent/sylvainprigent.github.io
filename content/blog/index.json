@@ -1,0 +1,29 @@
+[
+    {
+        "slug": "article-1",
+        "image": "article-1.png",
+        "title_fr": "Titre en Francais",
+        "title_en": "English title",
+        "impact_fr": "Ceci est l'impact",
+        "impact_en": "This is the impact",
+        "date": "2025-10-12"
+    },
+    {
+        "slug": "article-2",
+        "image": "article-2.png",
+        "title_fr": "Titre en Francais 2",
+        "title_en": "English title 2",
+        "impact_fr": "Ceci est l'impact 2",
+        "impact_en": "This is the impact 2",
+        "date": "2025-05-12"
+    },
+    {
+        "slug": "article-3",
+        "image": "article-31.png",
+        "title_fr": "Titre en Francais 3",
+        "title_en": "English title 3",
+        "impact_fr": "Ceci est l'impact 3",
+        "impact_en": "This is the impact 3",
+        "date": "2025-01-12"
+    }
+]
