@@ -19,7 +19,7 @@ Auteur de **plusieurs brevets et publications scientifiques**, avec une capacit�
 
 ## Expérience
 
-**Coordinateur data et applications** — MG2Mix, 2022 - Présent  
+**Coordinateur data et applications** — MG2Mix, 2024 - Présent  
 * Conception d’architectures de traitement de données pour l’analyse de **mesures capteurs liées aux performances d’élevage et à l’impact environnemental**.  
 * Mise en place de pipelines automatisés d’ingestion et de transformation (ETL), améliorant la disponibilité et la fiabilité des données.  
 * Développement d’applications d’aide à la décision pour le pilotage analytique des performances des exploitations.
@@ -35,7 +35,7 @@ Auteur de **plusieurs brevets et publications scientifiques**, avec une capacit�
 
 **Impact** : Amélioration de la scalabilité de la plateforme et réduction du time-to-market des fonctionnalités.
 
-**Chef de projet data / Lead Data Scientist** — Réseau France-BioImaging, 2013-2022  
+**Chef de projet data / Lead Data Scientist** — Réseau France-BioImaging, 2014-2022  
 * Pilotage du développement de BioImageIT, plateforme ouverte implémentant les FAIR principles et facilitant l’accès des chercheurs à des workflows avancés d’analyse d’images.  
 * Missions de conseil en data science auprès de partenaires académiques (CNRS, Inria, INRAE, Institut Curie, Institut Pasteur, universités) et industriels (Airbus, Nobleo, UVisio).  
 * Conception et livraison de solutions deep learning et d’interfaces centrées utilisateur pour des applications complexes de bio-imagerie.  
