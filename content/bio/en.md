@@ -21,7 +21,7 @@ Author of **multiple patents and peer-reviewed scientific publications**, he com
 
 ## Experience
 
-**Data and applications coordinator** — MG2Mix, 2022 - Present
+**Data and applications coordinator** — MG2Mix, 2024 - Present
 * Architected internal data processing solutions to analyse **breeding performance and ecological impact** sensor measurements.
 * Designed and deployed automated data ingestion and transformation (ETL) improving data availability for operational teams.
 * Delivered decision-support applications enabling new analytical capabilities for farm performance monitoring.
@@ -37,7 +37,7 @@ Author of **multiple patents and peer-reviewed scientific publications**, he com
 
 **Impact**: Strengthened platform scalability and reduced time-to-feature delivery through improved architecture governance.
 
-**Data Project Manager / Lead Data Scientist** — France-BioImaging network, 2013-2022  
+**Data Project Manager / Lead Data Scientist** — France-BioImaging network, 2014-2022  
 * Led the development of BioImageIT, an open and extensible platform enabling life-science researchers to access advanced data analysis workflows.
 * Acted as data science consultant for academic (CNRS, Inria, INRAE Institut Curie, Institut Pasteur, Universities) and industrial partners (Airbus, Nobleo, UVisio).
 * Architected and delivered deep learning solutions and user-centric interfaces for complex bio-imaging applications.
