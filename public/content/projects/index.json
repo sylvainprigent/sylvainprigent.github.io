@@ -1,0 +1,34 @@
+[
+    {
+        "slug": "eve-analytics",
+        "image": "eve-analytics.png",
+        "title_fr": "Eve Analytics — Plateforme d'analyse d'images de microscopie haut débit'",
+        "title_en": "Eve Analytics — Large-scale microscopy data platform",
+        "impact_fr": "Automatisation des analyses 2D/3D/3D+t, gain de productivité en recherche et déploiement sécurisé en environnement pharmaceutique.",
+        "impact_en": "Automated 2D/3D/3D+t data analysis, improved research productivity, and secure deployment in regulated pharma environments."
+    },
+    {
+        "slug": "bioimageit",
+        "image": "bioimageit.png",
+        "title_fr": "BioImage-IT — Plateforme analytique scientifique implémentant les principes FAIR",
+        "title_en": "BioImage-IT — FAIR-compliant scientific data analytics platform",
+        "impact_fr": "Industrialisation des workflows d'analyse d'images scientifiques, adoption rapide des algorithmes et traçabilité améliorée des expériences.",
+        "impact_en": "Industrialized scientific image analysis workflows, faster algorithm adoption, and improved experiment traceability."
+    },
+    {
+        "slug": "platform-manager",
+        "image": "platform-manager.png",
+        "title_fr": "Platform-Manager — Plateforme de gestion pour laboratoires",
+        "title_en": "Platform-Manager — Operations digitalization platform for laboratories",
+        "impact_fr": "Déploiement multi-sites, réduction par 5 de la charge administrative et standardisation des processus en environnement certifié.",
+        "impact_en": "Multi-site deployment, 5x reduction in administrative workload, and standardized processes in certified environments."
+    },
+    {
+        "slug": "mad",
+        "image": "mad.png",
+        "title_fr": "Melasma Automatic Detector — Outil d'analyse d'image médicales basé sur l'IA",
+        "title_en": "Melasma Automatic Detector — AI-based clinical imaging analytics tool",
+        "impact_fr": "Réduction par 3 de la durée d'évaluation clinique, automatisation de l'analyse multi-spectrale et amélioration de la reproductibilité des scores de sévérité.",
+        "impact_en": "3x reduction in clinical evaluation time, automated multi-spectral analysis, and improved reproducibility of severity scores."
+    }
+]

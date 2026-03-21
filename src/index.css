@@ -1,0 +1,94 @@
+:root {
+  /* FONT FAMILY */
+  font-family: "Inter", "Avenir", Helvetica, Arial, sans-serif;
+  line-height: 1.45;
+  font-weight: 400;
+
+  /* COLORS */
+  color: #1a1a1a; /* softer dark instead of pure white */
+  background-color: #ffffff;
+
+  /* FONT RENDERING */
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* BRAND COLORS */
+  --bs-primary: #002e43;
+  --bs-primary-rgb: 3, 27, 43;
+
+  /* Derived palette */
+  --brand-dark: #002e43;
+  --brand-light: #0d2e46;
+  --brand-accent: #0f3a5a;
+
+  /* TYPOGRAPHY SCALE */
+  --font-size-base: 16px; /* body text */
+  --font-size-h1: 2.25rem; /* ~36px */
+  --font-size-h2: 1.875rem; /* ~30px */
+  --font-size-h3: 1.5rem; /* ~24px */
+  --font-size-h4: 1.25rem; /* ~20px */
+  --font-size-h5: 1rem; /* ~16px */
+  --font-size-h6: 0.875rem; /* ~14px */
+
+  --font-weight-light: 300;
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+}
+
+/* PRIMARY BUTTON OVERRIDE */
+.btn {
+  border-radius: 10px;
+}
+
+.btn-primary {
+  background-color: var(--brand-dark) !important;
+  border-color: var(--brand-dark) !important;
+  box-shadow: 0 6px 14px rgba(3,27,43,0.2);
+}
+
+.btn-primary:hover {
+  background-color: var(--brand-light);
+  border-color: var(--brand-light);
+  box-shadow: 0 6px 14px rgba(3,27,43,0.2);
+}
+
+/* BUTTON ICON ALIGNMENT */
+
+.btn i {
+  margin-right: 6px;
+}
+
+/* HERO BADGES */
+
+.tech-badge {
+  background: #f1f4f7;
+  color: var(--brand-dark);
+  border-radius: 20px;
+  padding: 6px 14px;
+  font-size: 0.9rem;
+}
+
+/* CARD HOVER EFFECT */
+
+.card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+
+/* LINK COLOR */
+
+a {
+  color: var(--brand-dark);
+}
+
+a:hover {
+  color: var(--brand-light);
+}

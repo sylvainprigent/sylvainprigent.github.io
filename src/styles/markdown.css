@@ -1,0 +1,186 @@
+.markdown {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  font-family: 'Georgia', 'Times New Roman', serif;
+  color: #111;
+  line-height: 1.7;
+  font-size: 1.1rem;
+}
+
+/* Headings */
+.markdown h1 {
+  font-size: 2.2rem;
+  margin: 2rem 0 1rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.markdown h2 {
+  font-size: 1.8rem;
+  margin: 1.8rem 0 1rem;
+  font-weight: 600;
+}
+
+.markdown h3 {
+  font-size: 1.4rem;
+  margin: 1.5rem 0 1rem;
+  font-weight: 600;
+}
+
+/* Paragraphs */
+.markdown p {
+  margin: 1rem 0;
+}
+
+/* Links */
+.markdown a {
+  color: #031b2b; /* your brand primary */
+  text-decoration: none;
+  transition: color 0.2s;
+}
+.markdown a:hover {
+  color: #0d2e46;
+  text-decoration: underline;
+}
+
+/* Blockquotes */
+.markdown blockquote {
+  border-left: 4px solid #031b2b;
+  padding-left: 1rem;
+  color: #555;
+  font-style: italic;
+  margin: 1.5rem 0;
+  background: #f9f9f9;
+  border-radius: 4px;
+}
+
+/* Lists */
+.markdown ul, .markdown ol {
+  margin: 1rem 0 1rem 1.5rem;
+}
+
+/* Images */
+.markdown img {
+  max-width: 100%;
+  border-radius: 8px;
+  margin: 1.5rem 0;
+}
+
+/* Code blocks */
+.markdown pre {
+  background: #0d2e46;
+  color: #f1f1f1;
+  padding: 1rem;
+  border-radius: 6px;
+  overflow-x: auto;
+  font-family: 'Courier New', monospace;
+  font-size: 0.95rem;
+}
+
+.markdown code {
+  background: #eaeaea;
+  color: #031b2b;
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  font-family: 'Courier New', monospace;
+}
+
+/* Horizontal rule */
+.markdown hr {
+  border: 0;
+  height: 1px;
+  background: #ddd;
+  margin: 2rem 0;
+}
+
+/* Tables */
+.markdown table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+}
+
+.markdown table th,
+.markdown table td {
+  border: 1px solid #ddd;
+  padding: 0.6rem 1rem;
+}
+
+.markdown table th {
+  background: #f1f1f1;
+  font-weight: 600;
+}
+
+/* Responsive for small screens */
+@media (max-width: 768px) {
+  .markdown {
+    padding: 1rem;
+    font-size: 1rem;
+  }
+}
+
+.project-head-image-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+/* Responsive image */
+.project-head-image {
+  max-width: 100%;       /* never exceed container width */
+  height: auto;          /* maintain aspect ratio */
+  border-radius: 8px;    /* subtle rounded corners */
+  /*box-shadow: 0 4px 15px rgba(0,0,0,0.1); */
+  max-height: 400px;     /* optional: limits image height */
+  object-fit: contain;   /* fit nicely without cropping */
+}
+
+
+.bio-markdown {
+  font-family: 'Georgia', serif;
+  color: #111;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.bio-markdown h1 {
+  font-size: 2.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.bio-markdown h2 {
+  font-size: 1.6rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  border-bottom: 2px solid #031b2b;
+  padding-bottom: 0.3rem;
+}
+
+.bio-markdown p {
+  margin-bottom: 1rem;
+  font-size: 1.05rem;
+}
+
+.bio-markdown ul {
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+}
+
+.bio-markdown li {
+  margin-bottom: 0.5rem;
+}
+
+.bio-markdown a {
+  color: #031b2b;
+  text-decoration: none;
+}
+.bio-markdown a:hover {
+  text-decoration: underline;
+}
+
+.bio-markdown hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 1.5rem 0;
+}
